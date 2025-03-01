@@ -9,8 +9,8 @@ import numpy as np
 import json
 import os
 from argparse import Namespace
-from google.colab import drive
-drive.mount("/content/gdrive")
+#from google.colab import drive
+#drive.mount("/content/gdrive")
 
 
 """## Vocabulary, Vectorizer, Dataset"""
